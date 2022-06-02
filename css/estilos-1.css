@@ -1,0 +1,104 @@
+/* Reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: Verdana, Arial, sans-serif;
+}
+body {
+    background-color: rgb(225, 10, 99);
+}
+h1,h3 {
+    color: white;
+}
+
+h4 {
+    color: rgb(188, 6, 91);
+    font-size: 18px;
+    margin-bottom: 1%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 12px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.button {
+    text-align: center;
+}
+button {
+    color: white;
+    font-size: 18px;
+    font-weight: 900;
+    border-radius: 5px;
+    background-color: rgb(41, 142, 27);
+    border: 15px solid rgb(41, 142, 27);
+}
+
+img {
+    width: 100%;
+}
+
+section {
+    background-color: rgb(188, 6, 91);
+    margin: 1.5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 1%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 3px;
+}
+
+.juegos {
+    background-color: white;
+    margin-top: 1.5%;
+    padding: 0.5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 3px;
+}
+
+.center {
+    text-align: center;
+    border-left: 4px solid white;
+    border-right: 4px solid white;
+
+}
+
+.right {
+    text-align: right;
+}
+
+footer {
+    text-align: center;
+    font-size: 14px;
+    color: white;
+    background-color: rgb(233, 95, 146);
+    margin: 1.5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 1%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 3px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+hr {
+    border:none;
+    border-top: 1px dotted rgb(188, 6, 91);
+    color:#fff;
+    background-color:#fff;
+  }
